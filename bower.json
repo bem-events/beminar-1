@@ -1,0 +1,14 @@
+{
+  "name": "jekyller",
+  "version": "2.0.0",
+  "description": "Yandex theme for shower presentation engine",
+  "keywords": [
+    "shower",
+    "presentation"
+  ],
+  "private": true,
+  "dependencies": {
+    "shower": "~1.0.15",
+    "prism-js": "~0.1.0"
+  }
+}
