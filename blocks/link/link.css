@@ -1,0 +1,10 @@
+.link {
+    color: color: #44b;
+    text-decoration: none;
+    transition: color .15s ease-out;
+}
+
+.link:hover {
+    color: #e00;
+}
+

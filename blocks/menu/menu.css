@@ -1,0 +1,21 @@
+.menu {
+    display: flex;
+    display: -webkit-flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    -webkit-justify-content: center;
+}
+
+.menu__item {
+    margin-left: 40px;
+    list-style-type: none;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.menu__link {
+    display: block;
+    padding: 20px 10px;
+}
+

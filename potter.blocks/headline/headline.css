@@ -1,0 +1,7 @@
+.headline {
+    background: #9D39A9 url(./bg-potter.jpg) no-repeat right top;
+}
+
+.headline__form {
+    background: rgba(0,0,0,0.3);
+}

@@ -1,0 +1,33 @@
+.form__input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: auto;
+    border: white;
+    background-color: rgba(255,255,255,0.6);
+    color: #333;
+    font-style: italic;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.form__textarea {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: auto;
+    border: 0;
+    background-color: rgba(255,255,255,0.6);
+    color: #333;
+    font-style: italic;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.form__header {
+    margin: 0;
+    padding: 0 0 20px 0;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 18px;
+}
+
