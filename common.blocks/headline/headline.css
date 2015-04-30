@@ -1,9 +1,7 @@
 .headline {
     display: flex;
-    display: -webkit-flex;
     padding: 20px 100px 20px 80px;
     background-color: #1d3846;
-    -webkit-align#content: stretchl
     border-bottom: 1px solid rgba(0,0,0,.06);
     /*background: #1d3846 url(img/bg1.jpg) no-repeat right bottom;*/
 }
@@ -33,8 +31,6 @@
 
 .headline__form {
     display: flex;
-    display: -webkit-flex;
-    -webkit-flex-direction: column;
     flex-direction: column;
     margin-left: 1px;
     padding: 20px;
