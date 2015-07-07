@@ -18,5 +18,9 @@
     "gulp-css-url-adjuster": "^0.2.3",
     "gulp-rename": "^1.2.2",
     "html2bl": "git://github.com/dab/html2bl.git"
+  },
+  "dependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "gulp-postcss": "^5.1.9"
   }
 }
