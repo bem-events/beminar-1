@@ -1,0 +1,26 @@
+{
+  "name": "beminar-2",
+  "version": "0.0.1",
+  "description": "Building BEM-like project with Gulp.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bem-events/beminar-1.git"
+  },
+  "author": "Dima Belitsky",
+  "bugs": {
+    "url": "https://github.com/bem-events/beminar-1/issues"
+  },
+  "homepage": "https://github.com/bem-events/beminar-1",
+  "devDependencies": {
+    "browser-sync": "^2.6.9",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-css-url-adjuster": "^0.2.3",
+    "gulp-rename": "^1.2.2",
+    "html2bl": "git://github.com/dab/html2bl.git"
+  },
+  "dependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "gulp-postcss": "^5.1.9"
+  }
+}
